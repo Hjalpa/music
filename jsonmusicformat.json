@@ -1,0 +1,140 @@
+([
+  {"name":"Old School",
+   "author":"Unknown",
+   "url":"levelmusic1",
+   "volume":"0.35"},
+   
+   {"name":"Reflect",
+   "author":"Michael",
+   "url":"TP2v2",
+   "volume":"0.55"},
+   
+   {"name":"The Chase",
+   "author":"TerraMaris",
+   "url":"thechase",
+   "volume":"0.35"},
+  
+   {"name":"Climb the Ranks",
+   "author":"drukQs",
+   "url":"climbtheranks",
+   "volume":"0.25"},
+  
+   {"name":"Poppin' Caps",
+   "author":"What Do",
+   "url":"poppincaps",
+   "volume":"0.25"},
+  
+   {"name":"She Likes It",
+   "author":"martymoo",
+   "url":"shelikesit",
+   "volume":"0.35"},
+ 
+   {"name":"Void of Dreams",
+   "author":"Michael",
+   "url":"TPv1",
+   "volume":"0.50"},
+  
+   {"name":"Break Box",
+   "author":"drukQs",
+   "url":"Breaky",
+   "volume":"0.35"},
+ 
+   {"name":"Juking Jive",
+   "author":"TerraMaris",
+   "url":"JukingJive",
+   "volume":"0.45"},
+ 
+   {"name":"Boost Kid T.A.A.G. City",
+   "author":"Gem",
+   "url":"BoostKidTAAGCity",
+   "volume":"0.45"},
+ 
+   {"name":"Robot's Apprentice",
+   "author":"Apoptosis",
+   "url":"RobotsApprentice3",
+   "volume":"0.45"},
+ 
+   {"name":"Slayer",
+   "author":"Apoptosis",
+   "url":"Slayer7",
+   "volume":"0.50"},
+ 
+   {"name":"Action",
+   "author":"Elemefayoh",
+   "url":"Action",
+   "volume":"0.40"},
+ 
+   {"name":"Pro Ball",
+   "author":"BallBags",
+   "url":"ProBall",
+   "volume":"0.35"},
+
+   {"name":"Can You Feel It",
+   "author":"Juan Balldez",
+   "url":"CanYouFeelIt",
+   "volume":"0.45"},
+
+   {"name":"Order and Chaos",
+   "author":"Moosen",
+   "url":"OrderAndChaos",
+   "volume":"0.45"},
+
+   {"name":"Breakdancing Gecko",
+   "author":"Apoptosis",
+   "url":"breakdancinggecko",
+   "volume":"1"},
+ 
+   {"name":"Tronoid",
+   "author":"Apoptosis",
+   "url":"tronoid",
+   "volume":"1"},
+ 
+   {"name":"Waiting (On Re)",
+   "author":"Moosen",
+   "url":"WaitingOnRe",
+   "volume":"0.5"},
+ 
+   {"name":"Next",
+   "author":"Moosen",
+   "url":"Next",
+   "volume":"0.40"},
+ 
+   {"name":"Shift",
+   "author":"/u/jtoper",
+   "url":"Shift",
+   "volume":"0.6"},
+ 
+   {"name":"Center Flag Showdown",
+   "author":"xtra",
+   "url":"CenterFlagShowdown",
+   "volume":"0.30"},
+ 
+   {"name":"Spring Tide",
+   "author":"/u/imuh3",
+   "url":"SpringTide",
+   "volume":"0.30"},
+ 
+   {"name":"Solar",
+   "author":"/u/imuh3",
+   "url":"Solar",
+   "volume":"0.25"},
+ 
+   {"name":"Raygun",
+   "author":"Canvas",
+   "url":"raygun",
+   "volume":"0.45"},
+ 
+   {"name":"Future Outlaws",
+   "author":"/u/kurinto",
+   "url":"Future Outlaws",
+   "volume":"0.40"},
+ 
+   {"name":"Step",
+   "author":"/u/youngrames",
+   "url":"Step",
+   "volume":"0.40"},
+
+   {"name":"Kongregation",
+   "author":"Apoptosis",
+   "url":"Kongregation",
+   "volume":"0.40"}])

@@ -1,5 +1,5 @@
 {
-["name":"Chicken Soup","author":"HOME","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/HOME - Chicken Soup.mp3","volume":"1"],
+{["name":"Chicken Soup","author":"HOME","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/HOME - Chicken Soup.mp3","volume":"1"],
 ["name":"Carrier Wave","author":"HOME","url":"Home - Carrier Wave.mp3","volume":"1"],
 ["name":"Hurricane Season Intro","author":"HOME","url":"HOME - Hurricane Season Intro.mp3","volume":"1"],
 ["name":"Receiver","author":"HOME","url":"Home - Receiver.mp3","volume":"1"],
@@ -18,5 +18,5 @@
 ["name":"The Moment Before","author":"HOME","url":"HOME - The Moment Before.mp3","volume":"1"],
 ["name":"We're Finally Landing","author":"HOME","url":"Home - We're Finally Landing.mp3","volume":"1"],
 ["name":"Inner World","author":"Luminist","url":"Luminist - Inner World.mp3","volume":"1"],
-["name":"Sunshower","author":"TBA","url":"Sunshower.mp3","volume":"1"]
+["name":"Sunshower","author":"TBA","url":"Sunshower.mp3","volume":"1"]}
 }

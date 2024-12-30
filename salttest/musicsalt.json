@@ -1,22 +1,122 @@
 [
-{"name":"Chicken Soup","author":"HOME","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/HOME - Chicken Soup.mp3","volume":"1"},
-{"name":"Carrier Wave","author":"HOME","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/Home - Carrier Wave.mp3","volume":"1"},
-{"name":"Hurricane Season Intro","author":"HOME","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/HOME - Hurricane Season Intro.mp3","volume":"1"},
-{"name":"Receiver","author":"HOME","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/Home - Receiver.mp3","volume":"1"},
-{"name":"Negative Gravity","author":"Foewi","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/Foewi - Negative Gravity.mp3","volume":"1"},
-{"name":"Crystal Caves","author":"TBA","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/Crystal Caves.mp3","volume":"1"},
-{"name":"Gaining Traction","author":"Three Chain Links","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/Three%20Chain%20Links%20%E2%80%93%20Gaining%20Traction%20%5BLo-Fi%5D%20%F0%9F%8E%B5%20from%20Royalty%20Free%20Planet%E2%84%A2.mp3","volume":"1"},
-{"name":"Polar Bears","author":"Stevia Sphere","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/Stevia%20Sphere%20%E2%80%93%20Polar%20Bears%20%5BVaporwave%5D%20%F0%9F%8E%B5%20from%20Royalty%20Free%20Planet%E2%84%A2.mp3","volume":"1"},
-{"name":"It Can't Be Bargained With","author":"Three Chain Links","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/Three Chain Links - It Can't Be Bargained With.mp3","volume":"1"},
-{"name":"Marantz PMD221 Stereo","author":"HOME","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/HOME - Marantz PMD221 Stereo Summing Test.mp3","volume":"1"},
-{"name":"Close","author":"TBA","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/Close.mp3","volume":"1"},
-{"name":"Traffic","author":"Foewi","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/Foewi - Traffic","volume":"1"},
-{"name":"Descriptor","author":"Foewi","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/Foewi 2 - Descriptor.mp3","volume":"1"},
-{"name":"Byzantium","author":"HOME","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/Home - Byzantium.mp3","volume":"1"},
-{"name":"Headcase","author":"HOME","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/Home - Headcase.mp3","volume":"1"},
-{"name":"Mainframe","author":"HOME","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/HOME - Mainframe.mp3","volume":"1"},
-{"name":"The Moment Before","author":"HOME","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/HOME - The Moment Before.mp3","volume":"1"},
-{"name":"We're Finally Landing","author":"HOME","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/Home - We're Finally Landing.mp3","volume":"1"},
-{"name":"Inner World","author":"Luminist","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/Luminist - Inner World.mp3","volume":"1"},
-{"name":"Sunshower","author":"TBA","url":"https://github.com/Hjalpa/music/raw/refs/heads/main/salttest/Sunshower.mp3","volume":"1"}
+  {
+    "name": "Chicken Soup",
+    "author": "HOME",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/HOME - Chicken Soup.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "Carrier Wave",
+    "author": "HOME",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/Home - Carrier Wave.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "Hurricane Season Intro",
+    "author": "HOME",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/HOME - Hurricane Season Intro.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "Receiver",
+    "author": "HOME",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/Home - Receiver.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "Negative Gravity",
+    "author": "Foewi",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/Foewi - Negative Gravity.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "Crystal Caves",
+    "author": "TBA",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/Crystal Caves.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "Gaining Traction",
+    "author": "Three Chain Links",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/Three%20Chain%20Links%20%E2%80%93%20Gaining%20Traction%20%5BLo-Fi%5D%20%F0%9F%8E%B5%20from%20Royalty%20Free%20Planet%E2%84%A2.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "Polar Bears",
+    "author": "Stevia Sphere",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/Stevia%20Sphere%20%E2%80%93%20Polar%20Bears%20%5BVaporwave%5D%20%F0%9F%8E%B5%20from%20Royalty%20Free%20Planet%E2%84%A2.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "It Can't Be Bargained With",
+    "author": "Three Chain Links",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/Three Chain Links - It Can't Be Bargained With.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "Marantz PMD221 Stereo",
+    "author": "HOME",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/HOME - Marantz PMD221 Stereo Summing Test.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "Close",
+    "author": "TBA",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/Close.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "Traffic",
+    "author": "Foewi",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/Foewi - Traffic",
+    "volume": "1"
+  },
+  {
+    "name": "Descriptor",
+    "author": "Foewi",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/Foewi 2 - Descriptor.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "Byzantium",
+    "author": "HOME",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/Home - Byzantium.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "Headcase",
+    "author": "HOME",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/Home - Headcase.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "Mainframe",
+    "author": "HOME",
+    "url": "https://github.com/Hjalpa/music/heads/main/salttest/HOME - Mainframe.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "The Moment Before",
+    "author": "HOME",
+    "url": "https://github.com/Hjalpa/music/heads/main/salttest/HOME - The Moment Before.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "We're Finally Landing",
+    "author": "HOME",
+    "url": "https://github.com/Hjalpa/music/heads/main/salttest/Home - We're Finally Landing.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "Inner World",
+    "author": "Luminist",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/Luminist - Inner World.mp3",
+    "volume": "1"
+  },
+  {
+    "name": "Sunshower",
+    "author": "TBA",
+    "url": "https://github.com/Hjalpa/music/raw/main/salttest/Sunshower.mp3",
+    "volume": "1"
+  }
 ]
